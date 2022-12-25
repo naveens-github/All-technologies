@@ -1,0 +1,2 @@
+## Version check##  
+mvn -version
