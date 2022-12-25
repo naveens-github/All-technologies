@@ -1,2 +1,2 @@
-## Version check##  
+## Version check ##  
 mvn -version
