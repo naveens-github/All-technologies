@@ -1,2 +1,2 @@
 ## Keyboard shortcuts  
-* Eclipse- ctrl+K = Intellij F3
+  Eclipse- ctrl+K = Intellij F3
