@@ -2,7 +2,7 @@ import java.sql.*;
 public class JdbcPreparedStmtExample {
     static final String DB_URL = "jdbc:mysql://localhost:3306/test-schema";
     static final String USERNAME = "root";
-    static final String PWD = "Reddys@25";
+    static final String PWD = "xxxxx";
     static final String QUERY = "select * from test where test_id = ?";
 
     public static void main(String[] args) {
