@@ -9,3 +9,6 @@
           callableStatement is used, when we plan to access the stored procedures and accepts the input parameters at run time
           
           
+## Which statement method to use?  
+         stmt.executeQuery(sql);   --this is only for select statements. eg.[select * from] 
+         stmt.executeUpdate(sql);  --this is for insert, update, delete.... statements. eg.[insert,update,delete.....]
