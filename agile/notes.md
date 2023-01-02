@@ -31,6 +31,20 @@
       12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 # Scrum
-      Scrum is a framework that unites business and development. It focuses on teams delivering products of the highest value while 
-      also being productive and efficient.
+      * Scrum is a framework that unites business and development. It focuses on teams delivering products of the highest value while 
+        also being productive and efficient.  
+        
+      * On a Scrum team, there are generally two sides of a project: business and development. The business side of the project is 
+        typically represented by a Product Owner (PO), who is accountable for maximizing the product's value resulting from the Scrum 
+        team’s work. The PO communicates with key stakeholders and is responsible for the product backlog. The development side is 
+        represented by the whole development team, with the Scrum Master facilitating Scrum practices and helping the development team 
+        monitor and improve their workflow.    
+        
+   **Daily Scrums:** brief check-ins that occur each day—enable team members to assess how successfully they are moving toward the 
+                     Sprint goal.   
+   **Sprint Planning:** an event when all team members initiate the Sprint by laying out the work to perform.          
+   **Sprint Review:** a timeboxed working session when the team and key stakeholders review the outcomes of a Sprint and identify 
+                      future steps.   
+   **Sprint Retrospective:** an event when team members discuss what went well, what could be improved, and commit to improvements 
+            in the next Sprint....
       
