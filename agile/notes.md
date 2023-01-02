@@ -48,3 +48,13 @@
    **Sprint Retrospective:** an event when team members discuss what went well, what could be improved, and commit to improvements 
             in the next Sprint....
       
+# Best Practices for Agile
+      1. Create and maintain a product backlog that is used as a single source for your tasks.
+      2. Update and prioritize a backlog regularly with the team.
+      3. Create a business roadmap aligned with the product backlog.
+      4. Have regular sprint reviews.
+      5. A Product Owner provides detailed positive or negative feedback on regular sprint reviews.
+      6. Reprioritize a backlog based on the feedback from PO and stakeholders during regular demo/review sessions.
+      7. Involve the whole team in the decision negotiations.
+      
+      
