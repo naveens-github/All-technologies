@@ -59,4 +59,20 @@ Tests should have a Boolean output and either pass or fail. The same test that f
 ### T Timely
 Unit tests should be written in a timely manner―before or at the same time as the production code. Testing post facto requires developers on your team to refactor the working code and make additional efforts to have tests fulfilling FIRST principles.
 
+# Different types of testing
+* **Unit testing** - testing small piece of code.
+* **System testing** - A large piece of code i.e, API testing
+* **Integration testing**- testing different parts how they get together. 
+* **Acceptance testing** - End user come and see what they are capable of.
+* **Performance testing**- how quick applications are.
+* **Regression testing** - is testing everything again, whenever we make a small change. 
+* **Security testing/ penetration testing** - is spot any weakness of the system.
+* **Load testing** - how the application do when you load the traffic at the same time.
+* **End-to-End testing**- testing whole application. 
 
+
+# Test-Driven Development(TDD)
+* Write test before implementation of code.  
+* Forces the developer to think about the requirements before implementation.  
+* Tests are not skipped due to time pressure.  
+* Bugs are spotted early.
