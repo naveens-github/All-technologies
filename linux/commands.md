@@ -1,0 +1,19 @@
+#### Most used Linux commands
+1. ls = list files and directories.
+2. cd = change current directory.
+3. mkdir = create a new directory.
+4. rm = remove files or directories.
+5. mv = move or rename files, change file or directory.
+6. chmod = change file or directories permission.
+7. cp = copy files or directories.
+8. find = search files or directories.
+9. grep = search for a pattern in files.
+10. vi = edit files using text editor.
+11. cat = display the content of files.
+12. tar = manipulate tarball archive files.
+13. ps = display process information.
+14. kill = terminate process by sending a signal.
+15. top = display process and resource usage.
+16. ifconfig = configue network interfaces.
+17. ping = test internet connectivity between hosts.
+18. du = estimate file space usage.
